@@ -4,7 +4,13 @@ class Price extends Component {
     render() {
         return (
             <div>
-                Price     
+                <table>
+                    <tr>
+                        <td>ONE</td>
+                        <td>Two</td>
+                        <td>Three</td>
+                    </tr>
+                </table>
             </div>
         );
     }
