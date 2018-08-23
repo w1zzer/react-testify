@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Proxima Nova';
+    src: url('./fonts/ProximaNova.otf');
+}
+@font-face {
+    font-family: 'Deng';
+    src: url('./fonts/Deng.ttf');
+}
+@font-face {
+    font-family: 'DengLight';
+    src: url('./fonts/Dengl.ttf');
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    background: url('./bg.jpg') no-repeat center;
+    background-size: cover;
+    font-family: 'Proxima Nova';
+    color: white;
+}
+#root {
+    width: 100%;
+    height: 100%;
+}
+.highest {
+    width: 100%;
+    height: 100%;
+}

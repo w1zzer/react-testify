@@ -1,0 +1,29 @@
+.contacts__list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.contacts__list__item:nth-child(1){
+}
+.contacts__list__item {
+}
+
+.contacts__list__link {
+    text-decoration: none;
+    color: #fff;
+}
+
+.contacts__main {
+    text-align: center;
+}
+
+.contacts__main__number {
+    text-decoration: none;
+    color: white;
+    display: inline;
+    font-size: 2em;
+}
+
+.contacts__main__link {
+    color: white;
+}
