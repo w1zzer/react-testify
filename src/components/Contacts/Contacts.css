@@ -1,6 +1,8 @@
 .contacts__list {
     list-style-type: none;
     padding: 0;
+    padding-left: 15%;
+    padding-bottom: 2rem;
 }
 
 .contacts__list__item:nth-child(1){
