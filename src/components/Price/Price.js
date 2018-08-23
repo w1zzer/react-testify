@@ -9,6 +9,10 @@ class Price extends Component {
                         <td>Объявление 10х22см</td>
                         <td>70 коп.</td>
                     </tr>
+                    <tr>
+                        <td>Объявление 15х22см</td>
+                        <td>90 коп.</td>
+                    </tr>
                 </table>
             </div>
         );
